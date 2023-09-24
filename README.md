@@ -7,10 +7,12 @@ google Collab free subscribtion with Python 3 as runtime
 # Relational Data Model with relationships
 below is an image for the data model used with the relationships
 this data model can be used in any RDBMS like mysql,postgres and Microsoft SQL server
+all tables are connected with sales table with Forgein key 
 ![image](https://github.com/telwany/AIQ-Challenge/assets/46444986/67a9b08c-dd9e-40df-82b9-534d9c933f6b)
 
 # Analytical Data Model
 below is an image for the analytical data model used
+Analytical Data model is flattened as this flattening makes dealing and driving insights easier for different data visualization tools
 ![image](https://github.com/telwany/AIQ-Challenge/assets/46444986/160a1ef1-3a64-479a-89ef-cfd2d2f90af8)
 
 # Running the code
